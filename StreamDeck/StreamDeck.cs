@@ -13,6 +13,8 @@ namespace StreamDeck
         public static void Main(string[] args)
         {
             var ahk = AutoHotkeyEngine.Instance;
+            ahk.ExecRaw("#UseHook");
+            ahk.ExecRaw("SetKeyDelay, 1, 1");
 
             int side = 0;
             int disp = 0;
@@ -87,7 +89,7 @@ namespace StreamDeck
                                     disp = 0;
                                     DisplayManager.SetDisplayMode(DisplayManager.DisplayMode.Extend);
                                 }*/
-                                ahk.ExecRaw("SendRaw, %Clipboard%");
+                                ahk.ExecRaw("SendEvent, %Clipboard%");
                                 break;
                             case "OPC2\n":
                                 break;
