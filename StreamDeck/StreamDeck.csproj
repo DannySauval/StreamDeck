@@ -1,0 +1,28 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+    <ApplicationIcon />
+    <OutputType>Exe</OutputType>
+    <StartupObject />
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="System.IO" Version="4.3.0" />
+    <PackageReference Include="System.IO.Ports" Version="5.0.1" />
+    <PackageReference Include="System.Windows.Extensions" Version="5.0.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Reference Include="DisplayManagerLib">
+      <HintPath>..\Libraries\DisplayManagerLib\bin\Debug\net5.0\DisplayManagerLib.dll</HintPath>
+    </Reference>
+    <Reference Include="VirtualDesktopLib">
+      <HintPath>..\Libraries\VirtualDesktopLib\bin\Debug\net5.0\VirtualDesktopLib.dll</HintPath>
+    </Reference>
+    <Reference Include="AutoHotkey.Interop">
+      <HintPath>..\Libraries\AutoHotkey.Interop\bin\Debug\net5.0\AutoHotkey.Interop.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>

@@ -1,0 +1,8 @@
+C:\Users\danny\GitHub\StreamDeck\Libraries\AutoHotkey.Interop\bin\Debug\netstandard2.1\x86\v2_AutoHotkey.dll
+C:\Users\danny\GitHub\StreamDeck\Libraries\AutoHotkey.Interop\bin\Debug\netstandard2.1\AutoHotkey.Interop.deps.json
+C:\Users\danny\GitHub\StreamDeck\Libraries\AutoHotkey.Interop\bin\Debug\netstandard2.1\AutoHotkey.Interop.dll
+C:\Users\danny\GitHub\StreamDeck\Libraries\AutoHotkey.Interop\bin\Debug\netstandard2.1\AutoHotkey.Interop.pdb
+C:\Users\danny\GitHub\StreamDeck\Libraries\AutoHotkey.Interop\obj\Debug\netstandard2.1\AutoHotkey.Interop.csproj.AssemblyReference.cache
+C:\Users\danny\GitHub\StreamDeck\Libraries\AutoHotkey.Interop\obj\Debug\netstandard2.1\AutoHotkey.Interop.csproj.CoreCompileInputs.cache
+C:\Users\danny\GitHub\StreamDeck\Libraries\AutoHotkey.Interop\obj\Debug\netstandard2.1\AutoHotkey.Interop.dll
+C:\Users\danny\GitHub\StreamDeck\Libraries\AutoHotkey.Interop\obj\Debug\netstandard2.1\AutoHotkey.Interop.pdb

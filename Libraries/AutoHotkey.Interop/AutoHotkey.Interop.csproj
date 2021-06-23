@@ -1,0 +1,21 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup> 
+   <TargetFramework>net5.0</TargetFramework> 
+   <RootNamespace>MyNameSpace</RootNamespace> 
+</PropertyGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="x64\AutoHotkey.dll" />
+    <EmbeddedResource Include="x86\AutoHotkey.dll" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="x64\v2_AutoHotkey.dll" />
+    <EmbeddedResource Include="Pipes\pipeclient.ahk" />
+    <None Update="x86\v2_AutoHotkey.dll">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <PackageReference Include="Microsoft.CSharp" Version="4.7.0" />
+    <PackageReference Include="System.Data.DataSetExtensions" Version="4.5.0" />
+  </ItemGroup>
+</Project>

@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "Yltp6Gq8E6OZgHutZKUT8YdG40+nREO9t8xqDPG1aJyF9NIA+qgfgs8WXyva0jwZ2E46tJKLbgs+cnQT0GNJIw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\danny\\GitHub\\StreamDeck\\Libraries\\AutoHotkey.Interop\\AutoHotkey.Interop.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\danny\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\danny\\.nuget\\packages\\system.data.datasetextensions\\4.5.0\\system.data.datasetextensions.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}

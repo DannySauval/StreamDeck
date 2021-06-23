@@ -1,0 +1,7 @@
+C:\Users\danny\Downloads\src\AutoHotkey.Interop\bin\Debug\x86\v2_AutoHotkey.dll
+C:\Users\danny\Downloads\src\AutoHotkey.Interop\bin\Debug\AutoHotkey.Interop.dll
+C:\Users\danny\Downloads\src\AutoHotkey.Interop\bin\Debug\AutoHotkey.Interop.pdb
+C:\Users\danny\Downloads\src\AutoHotkey.Interop\obj\Debug\AutoHotkey.Interop.csproj.AssemblyReference.cache
+C:\Users\danny\Downloads\src\AutoHotkey.Interop\obj\Debug\AutoHotkey.Interop.csproj.CoreCompileInputs.cache
+C:\Users\danny\Downloads\src\AutoHotkey.Interop\obj\Debug\AutoHotkey.Interop.dll
+C:\Users\danny\Downloads\src\AutoHotkey.Interop\obj\Debug\AutoHotkey.Interop.pdb

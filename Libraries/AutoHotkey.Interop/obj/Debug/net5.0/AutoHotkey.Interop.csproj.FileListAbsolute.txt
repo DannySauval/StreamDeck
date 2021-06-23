@@ -1,0 +1,13 @@
+C:\Users\danny\GitHub\StreamDeck\Libraries\AutoHotkey.Interop\obj\Debug\net5.0\AutoHotkey.Interop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danny\GitHub\StreamDeck\Libraries\AutoHotkey.Interop\obj\Debug\net5.0\AutoHotkey.Interop.AssemblyInfoInputs.cache
+C:\Users\danny\GitHub\StreamDeck\Libraries\AutoHotkey.Interop\obj\Debug\net5.0\AutoHotkey.Interop.AssemblyInfo.cs
+C:\Users\danny\GitHub\StreamDeck\Libraries\AutoHotkey.Interop\obj\Debug\net5.0\AutoHotkey.Interop.csproj.CoreCompileInputs.cache
+C:\Users\danny\GitHub\StreamDeck\Libraries\AutoHotkey.Interop\bin\Debug\net5.0\x86\v2_AutoHotkey.dll
+C:\Users\danny\GitHub\StreamDeck\Libraries\AutoHotkey.Interop\bin\Debug\net5.0\AutoHotkey.Interop.deps.json
+C:\Users\danny\GitHub\StreamDeck\Libraries\AutoHotkey.Interop\bin\Debug\net5.0\AutoHotkey.Interop.dll
+C:\Users\danny\GitHub\StreamDeck\Libraries\AutoHotkey.Interop\bin\Debug\net5.0\ref\AutoHotkey.Interop.dll
+C:\Users\danny\GitHub\StreamDeck\Libraries\AutoHotkey.Interop\bin\Debug\net5.0\AutoHotkey.Interop.pdb
+C:\Users\danny\GitHub\StreamDeck\Libraries\AutoHotkey.Interop\obj\Debug\net5.0\AutoHotkey.Interop.dll
+C:\Users\danny\GitHub\StreamDeck\Libraries\AutoHotkey.Interop\obj\Debug\net5.0\ref\AutoHotkey.Interop.dll
+C:\Users\danny\GitHub\StreamDeck\Libraries\AutoHotkey.Interop\obj\Debug\net5.0\AutoHotkey.Interop.pdb
+C:\Users\danny\GitHub\StreamDeck\Libraries\AutoHotkey.Interop\obj\Debug\net5.0\AutoHotkey.Interop.csproj.AssemblyReference.cache
