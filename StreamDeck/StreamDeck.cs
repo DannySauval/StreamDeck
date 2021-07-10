@@ -89,6 +89,7 @@ namespace StreamDeck
                                     disp = 0;
                                     DisplayManager.SetDisplayMode(DisplayManager.DisplayMode.Extend);
                                 }*/
+                                Console.WriteLine("Pasting...");
                                 ahk.ExecRaw("SendEvent, %Clipboard%");
                                 break;
                             case "OPC2\n":
