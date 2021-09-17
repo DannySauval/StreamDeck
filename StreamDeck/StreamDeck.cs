@@ -48,7 +48,7 @@ namespace StreamDeck
 
                         switch (new string(tab)) // Ugly conversion
                         {
-                            case "OPC0\n":
+                            case "OPC1\n":
                                 if (side == 0)
                                 {
                                     side = 1;
@@ -78,7 +78,7 @@ namespace StreamDeck
                                     }
                                 }
                                 break;
-                            case "OPC1\n":
+                            case "OPC0\n":
                                 /*if (disp != 1)
                                 {
                                     disp = 1;
