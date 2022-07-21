@@ -1,0 +1,12 @@
+C:\Users\Danny\GitHub\StreamDeck\Libraries\VirtualDesktopLib\bin\Release\net5.0\VirtualDesktopLib.deps.json
+C:\Users\Danny\GitHub\StreamDeck\Libraries\VirtualDesktopLib\bin\Release\net5.0\VirtualDesktopLib.dll
+C:\Users\Danny\GitHub\StreamDeck\Libraries\VirtualDesktopLib\bin\Release\net5.0\ref\VirtualDesktopLib.dll
+C:\Users\Danny\GitHub\StreamDeck\Libraries\VirtualDesktopLib\bin\Release\net5.0\VirtualDesktopLib.pdb
+C:\Users\Danny\GitHub\StreamDeck\Libraries\VirtualDesktopLib\obj\Release\net5.0\VirtualDesktopLib.csproj.AssemblyReference.cache
+C:\Users\Danny\GitHub\StreamDeck\Libraries\VirtualDesktopLib\obj\Release\net5.0\VirtualDesktopLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Danny\GitHub\StreamDeck\Libraries\VirtualDesktopLib\obj\Release\net5.0\VirtualDesktopLib.AssemblyInfoInputs.cache
+C:\Users\Danny\GitHub\StreamDeck\Libraries\VirtualDesktopLib\obj\Release\net5.0\VirtualDesktopLib.AssemblyInfo.cs
+C:\Users\Danny\GitHub\StreamDeck\Libraries\VirtualDesktopLib\obj\Release\net5.0\VirtualDesktopLib.csproj.CoreCompileInputs.cache
+C:\Users\Danny\GitHub\StreamDeck\Libraries\VirtualDesktopLib\obj\Release\net5.0\VirtualDesktopLib.dll
+C:\Users\Danny\GitHub\StreamDeck\Libraries\VirtualDesktopLib\obj\Release\net5.0\ref\VirtualDesktopLib.dll
+C:\Users\Danny\GitHub\StreamDeck\Libraries\VirtualDesktopLib\obj\Release\net5.0\VirtualDesktopLib.pdb

@@ -1,20 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\danny\\GitHub\\StreamDeck\\Libraries\\DisplayManagerLib\\DisplayManagerLib.csproj": {}
+    "C:\\Users\\Danny\\GitHub\\StreamDeck\\Libraries\\DisplayManagerLib\\DisplayManagerLib.csproj": {}
   },
   "projects": {
-    "C:\\Users\\danny\\GitHub\\StreamDeck\\Libraries\\DisplayManagerLib\\DisplayManagerLib.csproj": {
+    "C:\\Users\\Danny\\GitHub\\StreamDeck\\Libraries\\DisplayManagerLib\\DisplayManagerLib.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\danny\\GitHub\\StreamDeck\\Libraries\\DisplayManagerLib\\DisplayManagerLib.csproj",
+        "projectUniqueName": "C:\\Users\\Danny\\GitHub\\StreamDeck\\Libraries\\DisplayManagerLib\\DisplayManagerLib.csproj",
         "projectName": "DisplayManagerLib",
-        "projectPath": "C:\\Users\\danny\\GitHub\\StreamDeck\\Libraries\\DisplayManagerLib\\DisplayManagerLib.csproj",
-        "packagesPath": "C:\\Users\\danny\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\danny\\GitHub\\StreamDeck\\Libraries\\DisplayManagerLib\\obj\\",
+        "projectPath": "C:\\Users\\Danny\\GitHub\\StreamDeck\\Libraries\\DisplayManagerLib\\DisplayManagerLib.csproj",
+        "packagesPath": "C:\\Users\\Danny\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Danny\\GitHub\\StreamDeck\\Libraries\\DisplayManagerLib\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\danny\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Danny\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -54,7 +58,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.301\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.107\\RuntimeIdentifierGraph.json"
         }
       }
     }

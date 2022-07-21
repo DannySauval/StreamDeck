@@ -1,0 +1,12 @@
+C:\Users\Danny\GitHub\StreamDeck\Libraries\DisplayManagerLib\bin\Release\net5.0\DisplayManagerLib.deps.json
+C:\Users\Danny\GitHub\StreamDeck\Libraries\DisplayManagerLib\bin\Release\net5.0\DisplayManagerLib.dll
+C:\Users\Danny\GitHub\StreamDeck\Libraries\DisplayManagerLib\bin\Release\net5.0\ref\DisplayManagerLib.dll
+C:\Users\Danny\GitHub\StreamDeck\Libraries\DisplayManagerLib\bin\Release\net5.0\DisplayManagerLib.pdb
+C:\Users\Danny\GitHub\StreamDeck\Libraries\DisplayManagerLib\obj\Release\net5.0\DisplayManagerLib.csproj.AssemblyReference.cache
+C:\Users\Danny\GitHub\StreamDeck\Libraries\DisplayManagerLib\obj\Release\net5.0\DisplayManagerLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Danny\GitHub\StreamDeck\Libraries\DisplayManagerLib\obj\Release\net5.0\DisplayManagerLib.AssemblyInfoInputs.cache
+C:\Users\Danny\GitHub\StreamDeck\Libraries\DisplayManagerLib\obj\Release\net5.0\DisplayManagerLib.AssemblyInfo.cs
+C:\Users\Danny\GitHub\StreamDeck\Libraries\DisplayManagerLib\obj\Release\net5.0\DisplayManagerLib.csproj.CoreCompileInputs.cache
+C:\Users\Danny\GitHub\StreamDeck\Libraries\DisplayManagerLib\obj\Release\net5.0\DisplayManagerLib.dll
+C:\Users\Danny\GitHub\StreamDeck\Libraries\DisplayManagerLib\obj\Release\net5.0\ref\DisplayManagerLib.dll
+C:\Users\Danny\GitHub\StreamDeck\Libraries\DisplayManagerLib\obj\Release\net5.0\DisplayManagerLib.pdb

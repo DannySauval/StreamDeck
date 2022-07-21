@@ -67,8 +67,14 @@ C:\Users\danny\GitHub\StreamDeck\StreamDeck\bin\Debug\net5.0\VirtualDesktopLib.d
 C:\Users\danny\GitHub\StreamDeck\StreamDeck\bin\Debug\net5.0\DisplayManagerLib.pdb
 C:\Users\danny\GitHub\StreamDeck\StreamDeck\bin\Debug\net5.0\VirtualDesktopLib.pdb
 C:\Users\danny\GitHub\StreamDeck\StreamDeck\bin\Debug\net5.0\AutoHotkey.Interop.pdb
-C:\Users\danny\GitHub\StreamDeck\StreamDeck\obj\Debug\net5.0\StreamDeck.csproj.CopyComplete
 C:\Users\danny\GitHub\StreamDeck\StreamDeck\obj\Debug\net5.0\StreamDeck.dll
 C:\Users\danny\GitHub\StreamDeck\StreamDeck\obj\Debug\net5.0\ref\StreamDeck.dll
 C:\Users\danny\GitHub\StreamDeck\StreamDeck\obj\Debug\net5.0\StreamDeck.pdb
 C:\Users\danny\GitHub\StreamDeck\StreamDeck\obj\Debug\net5.0\StreamDeck.genruntimeconfig.cache
+C:\Users\Danny\GitHub\StreamDeck\StreamDeck\obj\Debug\net5.0\StreamDeck.csproj.CopyComplete
+C:\Users\Danny\GitHub\StreamDeck\StreamDeck\bin\Debug\net5.0\HidSharp.dll
+C:\Users\Danny\GitHub\StreamDeck\StreamDeck\bin\Debug\net5.0\LibreHardwareMonitorLib.dll
+C:\Users\Danny\GitHub\StreamDeck\StreamDeck\bin\Debug\net5.0\System.CodeDom.dll
+C:\Users\Danny\GitHub\StreamDeck\StreamDeck\bin\Debug\net5.0\System.Management.dll
+C:\Users\Danny\GitHub\StreamDeck\StreamDeck\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.0\System.Management.dll
+C:\Users\Danny\GitHub\StreamDeck\StreamDeck\bin\Debug\net5.0\Newtonsoft.Json.dll
